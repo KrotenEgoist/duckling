@@ -20,4 +20,5 @@ allDimensions =
   , Seal Quantity
   , Seal Volume
   , Seal Time
+  , Seal Temperature
   ]
